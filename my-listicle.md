@@ -12,3 +12,5 @@
 - [**Ice Cream**](https://en.wikipedia.org/wiki/Ice_cream)
 - [**Apple Pie**](https://en.wikipedia.org/wiki/Apple_pie)
 - [**Cookies**](https://en.wikipedia.org/wiki/Cookie)
+
+!(https://tableo.com/wp-content/uploads/Restaurant-Stock-Images-e1699951587809.webp)
