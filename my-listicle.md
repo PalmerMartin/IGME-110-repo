@@ -14,5 +14,4 @@
 - [**Cookies**](https://en.wikipedia.org/wiki/Cookie)
 
 
-![![download (1)](https://github.com/user-attachments/assets/17db8c2f-75e7-4330-ab3f-ca451d35b70f)
-]
+![download (1)](https://github.com/user-attachments/assets/17db8c2f-75e7-4330-ab3f-ca451d35b70f)
