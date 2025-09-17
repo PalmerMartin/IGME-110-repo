@@ -1,6 +1,6 @@
 # Good Foods
 ## Main Dishes
-- **[Pizza]** (https://en.wikipedia.org/wiki/Pizza)
+- [**Pizza**](https://en.wikipedia.org/wiki/Pizza)
 - [**Hamburgers**] (https://en.wikipedia.org/wiki/Hamburger)
 - **Steak**
 - **Salmon**
