@@ -14,5 +14,5 @@
 - [**Cookies**](https://en.wikipedia.org/wiki/Cookie)
 
 
-![food](<img width="1600" height="793" alt="image" src="https://github.com/user-attachments/assets/f36540a5-e611-4123-b020-5b4b97ae06c5" />
+![food](![download](https://github.com/user-attachments/assets/8436978c-bfbd-44ae-9ef9-8b9bea8cf079)
 )
