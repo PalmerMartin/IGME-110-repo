@@ -20,14 +20,33 @@
       font-size: 16px;
     }
 
+    #btn4{
+      background-color: #FF7F50;
+    }
+
+    #btn6{
+      background-color: #4CAF50;
+    }
+
+    #btn8{
+      background-color: #6495ED;
+    }
+
     #btn10{
       background-color: #008CBA;
     }
     
+    #btn12{
+      background-color: #FF9800;
+    }
+
     #btn20{
       background-color: #f44336;
     }
 
+    #btn100{
+      background-color: #FFD700;
+    }
     button:hover {
       opacity: 0.8;
     }
@@ -57,17 +76,33 @@
       numberSpan.innerHTML = number;
     }
 
+    btn4.onclick = function(){
+      showRandomInt(1, 4);
+    };
+
     btn6.onclick = function(){
       showRandomInt(1, 6);
+    };
+
+    btn8.onclick = function(){
+      showRandomInt(1, 8);
     };
 
     btn10.onclick = function(){
       showRandomInt(1, 10);
     };
 
+    btn12.onclick = function(){
+      showRandomInt(1, 12);
+    };
+
     btn20.onclick = function(){
       showRandomInt(1, 20);
     };
+
+    btn100.onclick = function(){
+      showRandomInt(1, 100);
+    }
   </script>
 </body>
 </html>
